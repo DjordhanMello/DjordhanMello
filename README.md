@@ -1,6 +1,5 @@
 
 ### Olá, me chamo Djordhan Mello 🖖
-Sou apaixonado por tecnologia e solução de problemas! <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/djordhan-mello-8b2868270/)
